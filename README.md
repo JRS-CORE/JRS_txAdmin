@@ -18,6 +18,7 @@ The recipe imports the database, installs every resource and writes `server.cfg`
 ## Links
 
 - Framework: https://github.com/JRS-CORE/jrscore
+- Stores: [JRS SOTR](https://jrs-sotr.tebex.io/) · [Gum Scripts](https://gum-scripts.tebex.io/)
 - License: GPL-3.0
 
 ---
